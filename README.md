@@ -30,7 +30,8 @@ Output:
 
 ![image](https://github.com/NidhinRajagopalan/Savings_calculator/assets/50205637/65b03d5d-9a56-40fb-9e1b-eec30e715933)
 
-Note
+Note:
+
 If the user enters an invalid number of months (zero or negative), the script will prompt a message.
 Feel free to use and modify this script for your personal savings planning!
 
